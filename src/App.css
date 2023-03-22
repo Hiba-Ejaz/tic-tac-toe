@@ -1,0 +1,18 @@
+.board {
+  max-width: 40vw;
+  max-height: 40vh;
+  border: 2px grey solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  text-align: center;
+  padding-top: 1em;
+}
+.top {
+  max-width: 95vw;
+}
+.h1 {
+  text-align: center;
+}

@@ -1,0 +1,24 @@
+.body{
+    font-size: 20px;
+    background-color: dimgrey;
+}
+.square{
+    box-sizing:border-box;
+    width: 50px;
+    height:50px;
+    border: 2x black solid;
+    margin: 2px;
+    
+}
+button{
+    padding: 2em;
+    
+    width: 5rem;
+    height:5rem;
+    border: 2px black solid;
+    background-color: lightgray;
+}   
+.newline{
+    background-color: lightgray;
+    
+}
